@@ -1,4 +1,3 @@
-//https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/
 /* C++ Program for Bad Character Heuristic of Boyer  
 Moore String Matching Algorithm */
 #include <bits/stdc++.h> 
